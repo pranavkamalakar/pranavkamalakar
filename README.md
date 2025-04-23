@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi, I'm Pranav!
 
-<!--
-**pranavkamalakar/pranavkamalakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Class 12 student diving into programming and Artificial Intelligence 🤖  
+I enjoy exploring new concepts, building projects, and sharing my journey here on GitHub!
 
-Here are some ideas to get you started:
+## 🧠 What I'm Learning
+- Python (focusing on AI-driven projects soon!)
+- HTML & CSS (building my personal portfolio)
+- C++ (improving my skills every day)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python 🐍
+- HTML & CSS 🌐
+- C++ 💻
+- AI Projects (learning every day)
+
+## 📈 GitHub Stats
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavkamalakar&show_icons=true&theme=tokyonight)
+
+## 🔗 Let's Connect
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/pranavkamalakar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranavkamalakar/)
+
